@@ -1,0 +1,16 @@
+# cache data
+**/__pycache__/
+**/evadb_data/
+
+
+# input models
+**/checkpoints/
+**/*.pt
+
+
+# input videos
+**/*.mp4
+
+
+# results
+**/result/*
