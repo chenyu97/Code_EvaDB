@@ -20,3 +20,5 @@
 1. Example for query red cars: 
 `cd ./1_query_stateless_property/`
 `python query_red_car.py`
+
+2. Move the bash file `eval.sh` to the parent directory of root directory `Code_EvaDB`, which means that `eval.sh` and the root directory `Code_EvaDB` are at the same level. Then use: `bash eval.sh`.
